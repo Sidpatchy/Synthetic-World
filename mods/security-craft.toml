@@ -1,0 +1,13 @@
+name = "Security Craft"
+filename = "[1.12.2] SecurityCraft v1.8.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3090/828/[1.12.2] SecurityCraft v1.8.20.1.jar"
+hash-format = "murmur2"
+hash = "1125181277"
+
+[update]
+[update.curseforge]
+file-id = 3090828
+project-id = 64760

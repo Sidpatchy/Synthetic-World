@@ -1,0 +1,13 @@
+name = "InstantUnify"
+filename = "instantunify-1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2578/325/instantunify-1.12.2-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3144499826"
+
+[update]
+[update.curseforge]
+file-id = 2578325
+project-id = 277047

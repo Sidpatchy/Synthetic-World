@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-1.12.2-3.3.0-33.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2954/953/modular-routers-1.12.2-3.3.0-33.jar"
+hash-format = "murmur2"
+hash = "3987416114"
+
+[update]
+[update.curseforge]
+file-id = 2954953
+project-id = 250294

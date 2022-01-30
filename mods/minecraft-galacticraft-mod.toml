@@ -1,0 +1,13 @@
+name = "galacticraft mod by micdoodle8"
+filename = "GalacticraftCore-1.12.2-4.0.2.280.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/266/GalacticraftCore-1.12.2-4.0.2.280.jar"
+hash-format = "murmur2"
+hash = "1601774094"
+
+[update]
+[update.curseforge]
+file-id = 3361266
+project-id = 496800

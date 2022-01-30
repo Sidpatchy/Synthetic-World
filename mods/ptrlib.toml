@@ -1,0 +1,13 @@
+name = "PTRLib"
+filename = "PTRLib-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2685/154/PTRLib-1.0.4.jar"
+hash-format = "murmur2"
+hash = "1768408972"
+
+[update]
+[update.curseforge]
+file-id = 2685154
+project-id = 291499

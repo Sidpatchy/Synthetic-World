@@ -1,0 +1,13 @@
+name = "Snad"
+filename = "Snad-1.12.1-1.7.09.16a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2480/458/Snad-1.12.1-1.7.09.16a.jar"
+hash-format = "murmur2"
+hash = "189619338"
+
+[update]
+[update.curseforge]
+file-id = 2480458
+project-id = 241344

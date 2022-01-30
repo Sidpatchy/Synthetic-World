@@ -1,0 +1,13 @@
+name = "More Plates"
+filename = "moreplates-1.12.2-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2668/113/moreplates-1.12.2-5.5.2.jar"
+hash-format = "murmur2"
+hash = "3788312614"
+
+[update]
+[update.curseforge]
+file-id = 2668113
+project-id = 266736

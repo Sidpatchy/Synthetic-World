@@ -1,0 +1,13 @@
+name = "Buildcraft"
+filename = "buildcraft-all-7.99.24.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3072/651/buildcraft-all-7.99.24.7.jar"
+hash-format = "murmur2"
+hash = "4012767566"
+
+[update]
+[update.curseforge]
+file-id = 3072651
+project-id = 61811

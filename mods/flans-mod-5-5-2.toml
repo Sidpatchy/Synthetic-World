@@ -1,0 +1,13 @@
+name = "Flan's Mod"
+filename = "Flan's Mod-1.12.2-5.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3195/600/Flan's Mod-1.12.2-5.7.2.jar"
+hash-format = "murmur2"
+hash = "589223478"
+
+[update]
+[update.curseforge]
+file-id = 3195600
+project-id = 317310

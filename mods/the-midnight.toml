@@ -1,0 +1,13 @@
+name = "The Midnight"
+filename = "themidnight-0.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2727/758/themidnight-0.3.5.jar"
+hash-format = "murmur2"
+hash = "3692429713"
+
+[update]
+[update.curseforge]
+file-id = 2727758
+project-id = 304881

@@ -1,0 +1,13 @@
+name = "Future MC"
+filename = "future-mc-1.12.2-0.2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3051/855/future-mc-1.12.2-0.2.4.1.jar"
+hash-format = "murmur2"
+hash = "628395155"
+
+[update]
+[update.curseforge]
+file-id = 3051855
+project-id = 310059

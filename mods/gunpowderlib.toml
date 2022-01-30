@@ -1,0 +1,13 @@
+name = "GunpowderLib"
+filename = "GunpowderLib-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2852/431/GunpowderLib-1.12.2-1.0.jar"
+hash-format = "murmur2"
+hash = "4031748870"
+
+[update]
+[update.curseforge]
+file-id = 2852431
+project-id = 356646

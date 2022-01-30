@@ -1,0 +1,13 @@
+name = "Roguelike Dungeons"
+filename = "RoguelikeDungeons-1.12.2-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar"
+hash-format = "murmur2"
+hash = "4054234996"
+
+[update]
+[update.curseforge]
+file-id = 2492586
+project-id = 221585

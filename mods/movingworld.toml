@@ -1,0 +1,13 @@
+name = "MovingWorld"
+filename = "movingworld-1.12-6.353-full.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3007/966/movingworld-1.12-6.353-full.jar"
+hash-format = "murmur2"
+hash = "2092411555"
+
+[update]
+[update.curseforge]
+file-id = 3007966
+project-id = 230495

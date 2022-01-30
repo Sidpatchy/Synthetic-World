@@ -1,0 +1,13 @@
+name = "Pam's BrewCraft"
+filename = "Pam's BrewCraft 1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2997/188/Pam's BrewCraft 1.12.2-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1487701259"
+
+[update]
+[update.curseforge]
+file-id = 2997188
+project-id = 350675

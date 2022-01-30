@@ -1,0 +1,13 @@
+name = "Extra CPUs"
+filename = "extracpus-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3061/905/extracpus-1.12.2-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2405324945"
+
+[update]
+[update.curseforge]
+file-id = 3061905
+project-id = 408089

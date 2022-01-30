@@ -1,0 +1,13 @@
+name = "OldJavaWarning"
+filename = "OldJavaWarning-1.12.2-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2867/50/OldJavaWarning-1.12.2-1.1.11.jar"
+hash-format = "murmur2"
+hash = "3018958917"
+
+[update]
+[update.curseforge]
+file-id = 2867050
+project-id = 293496

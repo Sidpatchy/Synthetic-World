@@ -1,0 +1,13 @@
+name = "Galacticraft I can't find it"
+filename = "Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3287/561/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+hash-format = "murmur2"
+hash = "3686306540"
+
+[update]
+[update.curseforge]
+file-id = 3287561
+project-id = 475395

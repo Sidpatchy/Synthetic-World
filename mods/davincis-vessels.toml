@@ -1,0 +1,13 @@
+name = "Davincis Vessels"
+filename = "davincisvessels-1.12-6.355-full.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3001/930/davincisvessels-1.12-6.355-full.jar"
+hash-format = "murmur2"
+hash = "3298490690"
+
+[update]
+[update.curseforge]
+file-id = 3001930
+project-id = 228029

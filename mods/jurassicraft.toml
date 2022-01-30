@@ -1,0 +1,13 @@
+name = "JurassiCraft"
+filename = "JurassiCraft-1.12.2-2.1.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2741/623/JurassiCraft-1.12.2-2.1.23.jar"
+hash-format = "murmur2"
+hash = "1435984346"
+
+[update]
+[update.curseforge]
+file-id = 2741623
+project-id = 226719

@@ -1,0 +1,13 @@
+name = "ICBM - Classic"
+filename = "ICBM-classic-1.12.2-4.0.1b75.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2918/52/ICBM-classic-1.12.2-4.0.1b75.jar"
+hash-format = "murmur2"
+hash = "2299889495"
+
+[update]
+[update.curseforge]
+file-id = 2918052
+project-id = 244451

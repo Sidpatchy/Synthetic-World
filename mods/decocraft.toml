@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "Decocraft-2.6.3_1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2777/813/Decocraft-2.6.3_1.12.2.jar"
+hash-format = "murmur2"
+hash = "2830483758"
+
+[update]
+[update.curseforge]
+file-id = 2777813
+project-id = 79616

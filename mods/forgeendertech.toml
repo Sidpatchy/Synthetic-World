@@ -1,0 +1,13 @@
+name = "ForgeEndertech"
+filename = "ForgeEndertech-1.12.2-4.5.4.0-build.0534.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3016/149/ForgeEndertech-1.12.2-4.5.4.0-build.0534.jar"
+hash-format = "murmur2"
+hash = "3891609019"
+
+[update]
+[update.curseforge]
+file-id = 3016149
+project-id = 244844

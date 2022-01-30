@@ -1,0 +1,13 @@
+name = "Integration Foregoing"
+filename = "IntegrationForegoing-1.12.2-1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2904/594/IntegrationForegoing-1.12.2-1.10.jar"
+hash-format = "murmur2"
+hash = "4237926773"
+
+[update]
+[update.curseforge]
+file-id = 2904594
+project-id = 277938

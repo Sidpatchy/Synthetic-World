@@ -1,0 +1,13 @@
+name = "Additional Enchanted Miner"
+filename = "AdditionalEnchantedMiner-1.12.2-12.4.5-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/717/AdditionalEnchantedMiner-1.12.2-12.4.5-universal.jar"
+hash-format = "murmur2"
+hash = "1761173307"
+
+[update]
+[update.curseforge]
+file-id = 3035717
+project-id = 282837

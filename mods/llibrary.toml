@@ -1,0 +1,13 @@
+name = "LLibrary"
+filename = "llibrary-1.7.19-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2704/186/llibrary-1.7.19-1.12.2.jar"
+hash-format = "murmur2"
+hash = "507777411"
+
+[update]
+[update.curseforge]
+file-id = 2704186
+project-id = 243298

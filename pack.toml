@@ -1,0 +1,13 @@
+name = "Synthetic World v5"
+author = "Sidpatchy"
+version = "5.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0b7c4790435e4dd90b1da4d37bbdb496fab78eac538dff089adc279b187010d"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"

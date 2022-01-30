@@ -1,0 +1,13 @@
+name = "AtomicStryker's Infernal Mobs"
+filename = "InfernalMobs-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2771/611/InfernalMobs-1.12.2.jar"
+hash-format = "murmur2"
+hash = "3421693817"
+
+[update]
+[update.curseforge]
+file-id = 2771611
+project-id = 227875

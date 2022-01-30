@@ -1,0 +1,13 @@
+name = "project-501948"
+filename = "MicdoodleCore-1.12.2-4.0.2.280.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/778/MicdoodleCore-1.12.2-4.0.2.280.jar"
+hash-format = "murmur2"
+hash = "847194236"
+
+[update]
+[update.curseforge]
+file-id = 3381778
+project-id = 501948

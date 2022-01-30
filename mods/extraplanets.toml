@@ -1,0 +1,13 @@
+name = "ExtraPlanets"
+filename = "ExtraPlanets-1.12.2-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3031/687/ExtraPlanets-1.12.2-0.7.0.jar"
+hash-format = "murmur2"
+hash = "3925584203"
+
+[update]
+[update.curseforge]
+file-id = 3031687
+project-id = 241291

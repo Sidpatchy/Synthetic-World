@@ -1,0 +1,13 @@
+name = "Statues: Rechiseled"
+filename = "statues-rechiseled-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2664/963/statues-rechiseled-1.12.2-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3572878244"
+
+[update]
+[update.curseforge]
+file-id = 2664963
+project-id = 311592

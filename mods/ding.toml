@@ -1,0 +1,13 @@
+name = "Ding"
+filename = "Ding-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2801/170/Ding-1.12.2-1.0.2.jar"
+hash-format = "murmur2"
+hash = "903175422"
+
+[update]
+[update.curseforge]
+file-id = 2801170
+project-id = 231275
