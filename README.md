@@ -12,4 +12,5 @@ My first attempt at making a technology-focused Fabric-based modpack.
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
 2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/7.0.0/Synthetic.World.v7.zip
-3. Launch the game
+3. Select `Ok`
+4. Wait for the pack to be installed then launch the game
