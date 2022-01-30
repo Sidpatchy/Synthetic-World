@@ -1,0 +1,13 @@
+name = "FallingTree (Forge&Fabric)"
+filename = "FallingTree-1.18.1-3.2.0b2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3623/254/FallingTree-1.18.1-3.2.0b2.jar"
+hash-format = "murmur2"
+hash = "1466351336"
+
+[update]
+[update.curseforge]
+file-id = 3623254
+project-id = 349559

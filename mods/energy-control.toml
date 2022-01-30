@@ -1,0 +1,13 @@
+name = "Energy Control"
+filename = "EnergyControl-fabric-1.18.1-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3623/58/EnergyControl-fabric-1.18.1-0.2.4.jar"
+hash-format = "murmur2"
+hash = "3374820950"
+
+[update]
+[update.curseforge]
+file-id = 3623058
+project-id = 373450
