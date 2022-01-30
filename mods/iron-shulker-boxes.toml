@@ -1,0 +1,13 @@
+name = "Iron Shulker Boxes"
+filename = "ironshulkerboxes-1.16.4-5.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3164/598/ironshulkerboxes-1.16.4-5.1.11.jar"
+hash-format = "murmur2"
+hash = "3744790382"
+
+[update]
+[update.curseforge]
+file-id = 3164598
+project-id = 314911

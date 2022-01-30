@@ -1,0 +1,13 @@
+name = "Blue Power"
+filename = "bluepower-1.16.4-0.5.241-alpha-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3226/178/bluepower-1.16.4-0.5.241-alpha-universal.jar"
+hash-format = "murmur2"
+hash = "3732817841"
+
+[update]
+[update.curseforge]
+file-id = 3226178
+project-id = 223099

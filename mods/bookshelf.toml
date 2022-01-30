@@ -1,0 +1,13 @@
+name = "Bookshelf"
+filename = "Bookshelf-1.16.5-10.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3241/77/Bookshelf-1.16.5-10.0.7.jar"
+hash-format = "murmur2"
+hash = "3084632836"
+
+[update]
+[update.curseforge]
+file-id = 3241077
+project-id = 228525

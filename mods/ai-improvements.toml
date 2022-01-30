@@ -1,0 +1,13 @@
+name = "AI Improvements"
+filename = "AI-Improvements-1.16.2-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3031/978/AI-Improvements-1.16.2-0.3.0.jar"
+hash-format = "murmur2"
+hash = "1334565280"
+
+[update]
+[update.curseforge]
+file-id = 3031978
+project-id = 233019

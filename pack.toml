@@ -1,13 +1,13 @@
-name = "Synthetic World v7"
+name = "Synthetic World v6"
 author = "Sidpatchy"
-version = "7.0.0"
+version = "6.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "deee520d27cebbf9739a8d0ffda4f1415855eee57456a52535e1de53cee48704"
+hash = "b017d980fa5419ff9fe46955bfff36e6de586b3c99fe3b76c3ce1c74cd807cb4"
 
 [versions]
-fabric = "0.12.12"
-minecraft = "1.18.1"
+forge = "36.1.16"
+minecraft = "1.16.5"

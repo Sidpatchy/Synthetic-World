@@ -1,0 +1,13 @@
+name = "Emendatus Enigmatica"
+filename = "EmendatusEnigmatica-1.16.5-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3233/422/EmendatusEnigmatica-1.16.5-1.2.3.jar"
+hash-format = "murmur2"
+hash = "4090925069"
+
+[update]
+[update.curseforge]
+file-id = 3233422
+project-id = 399630

@@ -1,0 +1,13 @@
+name = "Baritone Only 1 Version"
+filename = "baritone-standalone-forge-1.2.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3358/526/baritone-standalone-forge-1.2.15.jar"
+hash-format = "murmur2"
+hash = "619260671"
+
+[update]
+[update.curseforge]
+file-id = 3358526
+project-id = 496014

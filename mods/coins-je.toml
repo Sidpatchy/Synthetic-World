@@ -1,0 +1,13 @@
+name = "Coins JE"
+filename = "Coins-1.16.5-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3185/271/Coins-1.16.5-6.0.2.jar"
+hash-format = "murmur2"
+hash = "3147518513"
+
+[update]
+[update.curseforge]
+file-id = 3185271
+project-id = 377056

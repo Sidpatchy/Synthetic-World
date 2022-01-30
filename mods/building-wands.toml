@@ -1,0 +1,13 @@
+name = "Building Wands"
+filename = "BuildingWands-Forge_1.16.5-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3299/737/BuildingWands-Forge_1.16.5-1.4.5.jar"
+hash-format = "murmur2"
+hash = "2366318580"
+
+[update]
+[update.curseforge]
+file-id = 3299737
+project-id = 363392
