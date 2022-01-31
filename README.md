@@ -1,5 +1,5 @@
 # Synthetic World v7
-My first attempt at making a technology-focused Fabric-based modpack.
+My first attempt at making a technology-focused Fabric-based modpack. Based on [Vanilla++](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus).
 
 # Installation
 ## Logging Into MultiMC
