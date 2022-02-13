@@ -1,13 +1,13 @@
 name = "Universal Graves"
-filename = "graves-2.0.0-beta.4.2+1.18.1.jar"
+filename = "graves-2.0.0-rc.4+1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3624/452/graves-2.0.0-beta.4.2+1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3640/103/graves-2.0.0-rc.4+1.18.1.jar"
 hash-format = "murmur2"
-hash = "3608866927"
+hash = "895133357"
 
 [update]
 [update.curseforge]
-file-id = 3624452
+file-id = 3640103
 project-id = 497175
