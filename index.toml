@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
+hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "8319c8c926f0aa07076a18da55597b8639472fb0d9d68c54dc544ecb18b1ae1e"
+hash = "ab0485775fbf5b49ebf45b24ea33a38b00e3d0ec13983a544294b07d24802b21"
 metafile = true
 
 [[files]]
@@ -457,5 +457,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
