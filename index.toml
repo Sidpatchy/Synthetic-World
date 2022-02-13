@@ -191,11 +191,6 @@ hash = "1d3a08b68147c4d79e49b0a4d5383e397c3c1d7811e7757a123b909fdee0bbbe"
 metafile = true
 
 [[files]]
-file = "mods/ezpas.toml"
-hash = "00f41aef3eb74e950e7adb136139c8f4494b3371ae7aa4dc9ef92a9730360112"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
@@ -281,6 +276,11 @@ hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
 metafile = true
 
 [[files]]
+file = "mods/lib.toml"
+hash = "e1f8e4d502238185d1091481f904252eed0c3fdaebf003dbbb4e630b61b1b1a1"
+metafile = true
+
+[[files]]
 file = "mods/lifts.toml"
 hash = "1294bbde3aec1c458435803fd40b4a43b7c21e64df18bf9f3b1947a69c18cee1"
 metafile = true
@@ -348,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/pal.toml"
 hash = "174157c0d189db891c95e525e74bcb85f0d1b99790536a1299c919abfb6ff0fc"
+metafile = true
+
+[[files]]
+file = "mods/pipe.toml"
+hash = "c26112fb5a67b3e5deb7799091698b27e0458bc06969dfbe30f9aa255ff8b914"
 metafile = true
 
 [[files]]
