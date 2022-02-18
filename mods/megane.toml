@@ -1,13 +1,13 @@
 name = "megane"
-filename = "megane-7.1.0.jar"
+filename = "megane-7.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3634/796/megane-7.1.0.jar"
+url = "https://edge.forgecdn.net/files/3648/827/megane-7.1.2.jar"
 hash-format = "murmur2"
-hash = "1183544241"
+hash = "2089735621"
 
 [update]
 [update.curseforge]
-file-id = 3634796
+file-id = 3648827
 project-id = 408118

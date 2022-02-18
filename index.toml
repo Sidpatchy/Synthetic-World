@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.toml"
-hash = "5df6b475d0f509a7107eafa411d401e19b585574f47065d727e2c262bdd9fbe2"
+hash = "3d99e68f513d682cd9acb4b778f5530f8dcee86dabf9a11d1de2e4b8dd8155ae"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.toml"
-hash = "e1a508b8711771c301eb07b410a6880c9da0e5a584b041aa03a3e18aefc12876"
+hash = "2e67219f8f002ce762154f3e9e2174c0d0cf77ece08991361295657e78cae9f5"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.toml"
-hash = "f8f6d4ddf3a30f1a88a65efe00f7fb82f9e3e706c5c9ea6d4de220effa12e4bb"
+hash = "141861d63977c780911ab3b258f04257ecf7ee16c29a472480d513521bad64db"
 metafile = true
 
 [[files]]
