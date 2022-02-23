@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.toml"
-hash = "4520fc3c1966dd15bedf15fb4facdbf3b80d60727962be6cdc6c5f72584eb14a"
+hash = "fabff8ff2bb0df530143c293f0668472dedaee244c4700e04185729b7aa15b26"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.toml"
-hash = "34c570df2f540503e6bd8fee4e0f1020c4c2651380e4970aeb43375070d47b27"
+hash = "3af301c78c1747afe44f5016ab448bb1e83a8ef917c5635f40750c87c2dfc352"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia-fabric.toml"
-hash = "4dab13f9875dffa1889c7392ef196cb46d246184964bf4644bcbfbc67b7e102c"
+hash = "da9d51ef739ee08701df5ef80320fc8704980611c5aeb262e14f2e28306d85e0"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+hash = "20342aec4f279599c087a92f09b013a14de4ddcb77f02adbd689c0fe62c280fd"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.toml"
-hash = "3d99e68f513d682cd9acb4b778f5530f8dcee86dabf9a11d1de2e4b8dd8155ae"
+hash = "bca70bc0bff6286bc55c3568ef0e7af68572fd82fa693751ce39dc6f7b26a17c"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "c2dffe8da35f12e88f9a7094f631823ed2ae1fc0c7c4d9d7f32bf6e5bc8187b5"
+hash = "3b22fd93a757f999f11eddd22debd55c3bbebb3ed1978f3854039b6574b7a041"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones-fabric.toml"
-hash = "62077bbd68064ad0a7a47b0babdf8ddb9ee0558432f4df0e195db4d22c747ce1"
+hash = "f398fc533b83e103da91fd3f47324eca204a9b0d494f46594a6fd31646bc9b9c"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
+hash = "20007d243e056fffbeb9a5af5585436f98b40d4478bc279b296a96bff5e66471"
 metafile = true
 
 [[files]]
