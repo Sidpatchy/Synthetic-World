@@ -1,13 +1,13 @@
 name = "PlayerAbilityLib"
-filename = "pal-1.5.0.jar"
+filename = "pal-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3541/576/pal-1.5.0.jar"
+url = "https://edge.forgecdn.net/files/3751/370/pal-1.5.1.jar"
 hash-format = "murmur2"
-hash = "2611075206"
+hash = "2131829807"
 
 [update]
 [update.curseforge]
-file-id = 3541576
+file-id = 3751370
 project-id = 359522

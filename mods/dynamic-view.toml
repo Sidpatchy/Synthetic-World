@@ -1,13 +1,13 @@
 name = "Dynamic View[Forge/Fabric]"
-filename = "dynview.fabric-1.18-1.5.jar"
+filename = "dynview.fabric-1.18.2-2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/560/dynview.fabric-1.18-1.5.jar"
+url = "https://edge.forgecdn.net/files/3758/57/dynview.fabric-1.18.2-2.1.jar"
 hash-format = "murmur2"
-hash = "3933341016"
+hash = "658621170"
 
 [update]
 [update.curseforge]
-file-id = 3551560
+file-id = 3758057
 project-id = 366140

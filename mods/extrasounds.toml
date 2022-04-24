@@ -1,13 +1,13 @@
 name = "ExtraSounds"
-filename = "extrasounds-2.2.0+1.18.jar"
+filename = "extrasounds-2.2.1+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3583/585/extrasounds-2.2.0+1.18.jar"
+url = "https://edge.forgecdn.net/files/3671/862/extrasounds-2.2.1+1.18.2.jar"
 hash-format = "murmur2"
-hash = "1818978238"
+hash = "2168480689"
 
 [update]
 [update.curseforge]
-file-id = 3583585
+file-id = 3671862
 project-id = 478890
