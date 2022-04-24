@@ -1,13 +1,13 @@
 name = "Additional Enchanted Miner"
-filename = "AdditionalEnchantedMiner-1.18-fabric-18.2.519.jar"
+filename = "AdditionalEnchantedMiner-1.18-fabric-18.2.493.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3732/991/AdditionalEnchantedMiner-1.18-fabric-18.2.519.jar"
+url = "https://edge.forgecdn.net/files/3644/590/AdditionalEnchantedMiner-1.18-fabric-18.2.493.jar"
 hash-format = "murmur2"
-hash = "628448936"
+hash = "2865546185"
 
 [update]
 [update.curseforge]
-file-id = 3732991
+file-id = 3644590
 project-id = 282837
