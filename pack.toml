@@ -1,0 +1,16 @@
+name = "Synthetic World"
+author = "Sidpatchy"
+version = "8.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f0c1e90bce0a41fcbf1852d780f7ce64ee088ae648a46d3648264aedd3e3959a"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.10"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.2"]
