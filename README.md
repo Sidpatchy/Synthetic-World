@@ -60,4 +60,8 @@ https://modrinth.com/mod/building-wands
 https://modrinth.com/mod/fabric-seasons
 https://modrinth.com/mod/fabric-seasons-extras
 https://modrinth.com/mod/deathlog
-https://modrinth.com/datapack/from-the-fog
+
+### Misc enhancements
+https://modrinth.com/mod/memoryleakfix
+https://modrinth.com/mod/passivepregen
+

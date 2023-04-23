@@ -186,11 +186,6 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "3f7d197783f02abc2cb7e85a6071f82067fc5d5a441fde4f5a7b94a96002dbc8"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -278,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "a3e2b4163f57d1f711a5be765d0d1a4c7722bcd0f35a141c0f177d59e2ca17d6"
+metafile = true
+
+[[files]]
+file = "mods/passivepregen.pw.toml"
+hash = "f033e796c7567644b819b132ef334cc43a9eccb38cb77f9d4b207d286ef01781"
 metafile = true
 
 [[files]]
