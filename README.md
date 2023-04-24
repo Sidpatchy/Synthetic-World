@@ -13,7 +13,7 @@ This pack takes a whole new approach to modding. Minimalism.
 
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
-2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/8.0.0/Synthetic.World.v8.zip
+2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/8.0.0/Synthetic-World-v8.zip
 3. Select `Ok`
 4. Wait for the pack to be installed then launch the game
 
