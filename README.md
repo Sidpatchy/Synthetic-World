@@ -30,12 +30,15 @@ https://modrinth.com/mod/merequester
 https://modrinth.com/mod/cc-restitched
 https://modrinth.com/mod/cccbridge
 
+### Misc Technology
+https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
+https://modrinth.com/mod/extra-generators
+
 ### Exploration
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://modrinth.com/mod/paradise-lost
 https://modrinth.com/mod/ad-astra
 https://modrinth.com/mod/naturalist
-
 
 #### Yung's enhancements
 https://modrinth.com/mod/yungs-better-mineshafts
@@ -53,7 +56,6 @@ https://www.curseforge.com/minecraft/mc-mods/botany-pots
 https://www.curseforge.com/minecraft/mc-mods/croptopia
 https://modrinth.com/mod/fabric-seasons-croptopia-compat
 
-
 ### QOL mods
 https://modrinth.com/mod/appleskin
 https://modrinth.com/mod/bits-and-chisels
@@ -70,7 +72,6 @@ https://modrinth.com/mod/fabric-seasons
 https://modrinth.com/mod/fabric-seasons-extras
 https://modrinth.com/mod/deathlog
 https://modrinth.com/mod/spice-of-fabric
-
 
 ### Misc enhancements
 https://modrinth.com/mod/memoryleakfix

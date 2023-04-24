@@ -166,13 +166,18 @@ hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "8667ba6e606a27efc90b4c3b3407443e2de7d042db6e30d6a145a1ac3e7443c7"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
 metafile = true
 
 [[files]]
@@ -218,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
 
 [[files]]
