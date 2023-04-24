@@ -61,6 +61,16 @@ hash = "4c8b3f9a71800e1f6e77c552601088e3de499512688dc817468c37f63edd67ce"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "ce8cbe488d2d459128f743be64355763c1996876f45c9057edb79ec6411c97f2"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
@@ -106,6 +116,11 @@ hash = "7ba49175c0a948116fcb3caee0b4b7e737316f7f68c215355308a0d816b11114"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "7c0c2df0414839b1c8ba38d37e4f13ea3df1123fb6996eee115cbc2fc8edc463"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear-fabric.pw.toml"
 hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
 metafile = true
@@ -113,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d3b6493205ea43ac22c65a229b2be0611f4c947c2180364fd5881bdef74f0104"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
@@ -156,6 +176,11 @@ hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-croptopia-compat.pw.toml"
+hash = "ab827efb520132f3e1ef1157bfdbba3977f379690f7e4ab4ce92a0fc70b5b471"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "0969a591e49ceaefcea66b61127678945afcebad220515063bf7d1d6e499edd3"
 metafile = true
@@ -183,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
@@ -261,6 +291,11 @@ hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
@@ -278,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/passivepregen.pw.toml"
 hash = "f033e796c7567644b819b132ef334cc43a9eccb38cb77f9d4b207d286ef01781"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
 metafile = true
 
 [[files]]
@@ -358,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "ea8c0a3f12cddc564449cd18b0d49a5801021e77963f61084280fcc06f0ba90b"
 metafile = true
 
 [[files]]

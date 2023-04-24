@@ -34,6 +34,8 @@ https://modrinth.com/mod/cccbridge
 https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 https://modrinth.com/mod/paradise-lost
 https://modrinth.com/mod/ad-astra
+https://modrinth.com/mod/naturalist
+
 
 #### Yung's enhancements
 https://modrinth.com/mod/yungs-better-mineshafts
@@ -44,6 +46,13 @@ https://modrinth.com/mod/yungs-better-desert-temples
 https://modrinth.com/mod/yungs-better-witch-huts
 https://modrinth.com/mod/yungs-better-nether-fortresses
 https://modrinth.com/mod/yungs-extras
+
+### Farming
+https://modrinth.com/mod/naturalist
+https://www.curseforge.com/minecraft/mc-mods/botany-pots
+https://www.curseforge.com/minecraft/mc-mods/croptopia
+https://modrinth.com/mod/fabric-seasons-croptopia-compat
+
 
 ### QOL mods
 https://modrinth.com/mod/appleskin
@@ -56,12 +65,15 @@ https://modrinth.com/mod/yigd
 https://modrinth.com/mod/waystones
 https://modrinth.com/mod/building-wands
 
-### Vanilla Enhancements
+### Vanilla Enhancements/Tweaks
 https://modrinth.com/mod/fabric-seasons
 https://modrinth.com/mod/fabric-seasons-extras
 https://modrinth.com/mod/deathlog
+https://modrinth.com/mod/spice-of-fabric
+
 
 ### Misc enhancements
 https://modrinth.com/mod/memoryleakfix
 https://modrinth.com/mod/passivepregen
+https://modrinth.com/mod/polymorph
 
