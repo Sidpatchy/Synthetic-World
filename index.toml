@@ -401,11 +401,6 @@ hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]
-file = "mods/simple-cobblestone-generator.pw.toml"
-hash = "f6423163a10ee90faeb1409174542f57e88b24fca2435d99c840089c437be365"
-metafile = true
-
-[[files]]
 file = "mods/slimechunkf3.pw.toml"
 hash = "f90c1043401835244ff4c19366aca1376371a9da17dd7aef7f1d557d2d558d42"
 metafile = true
@@ -443,16 +438,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9786ed7a4a961fbf6035899628390b289cef33365588d3550ab147cba7fc8d39"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "84754c8b5836f70b7ff34375de00bfc62656f0006b2ae33758cd56ffb044fda6"
 metafile = true
 
 [[files]]
