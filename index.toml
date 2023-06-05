@@ -401,6 +401,11 @@ hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]
+file = "mods/silkspawners.pw.toml"
+hash = "572b136f55eadaf9d62cfc62b761a24587a9fb43a52002a175657df2dfebb005"
+metafile = true
+
+[[files]]
 file = "mods/simple-chunkloader-fabric.pw.toml"
 hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
