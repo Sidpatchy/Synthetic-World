@@ -2,11 +2,7 @@
 The third generation of Synthetic World's fabric transition, this pack is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 
 With this version, Synthetic World is dropping the `v` from it's release names. It will henceforth be known as Synthetic World 9.
-
-
-
 # Installation
-
 ## Installing Java
 1. Download the [latest version of Java 17](https://adoptium.net/temurin/releases/?package=jdk&version=17).
 2. This will vary depending on which operating system you use.
@@ -14,25 +10,29 @@ With this version, Synthetic World is dropping the `v` from it's release names. 
    2. If you're running **MacOS:
       1. Select the **.pkg** file for **aarch64** if you're running Apple Silicon (aka M1/M2/M3).
       2. Select the **.pkg** file for the **x64** version if you're running an Intel Mac.
-      
+    
 ## Installing the Prism Launcher
 1. Head to the Prism Launcher [download page](https://prismlauncher.org/download?from=button).
 2. Download the version the corresponds to the device you're using.
 3. Install the downloaded file.
-
 ## Logging Into Prism Launcher
 1. Click `Settings` from the top bar
 2. Select `Accounts` along the side
 3. Click `Add Microsoft` or `Add Mojang` depending on which account type you have.
 4. Follow the on-screen instructions
 5. Click `Close`
-
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
-2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/9.0.0/Synthetic-World-v9.zip
+2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/9.0.0/Synthetic-World-9.zip
 3. Select `Ok`
-4. Wait for the pack to be installed then launch the game
+4. Wait for the pack to be installed then press `Launch`.
 
+If you receive an error along the lines of:
+`The java binary "" couldn't be found. Please fix the java path override in the instance's settings or disable it.`
+
+1. Select `Edit` from the sidebar (right side of screen).
+2. Select `Settings` from the sidebar (left side of screen).
+3. Under `Java Installation`, select `Auto-detect...` and pick version 17.x.x.
 ## List of Feature Mods
 Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 ### Tech Mods
@@ -43,8 +43,6 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [CCC: Bridge](https://modrinth.com/mod/cccbridge)
 * [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 * [Industrial Revolution](https://modrinth.com/mod/industrial-revolution)
-* 
-
 ### Adventure Mods
 * [Ad Astra](https://modrinth.com/mod/ad-astra)
 * [Naturalist](https://modrinth.com/mod/naturalist)
@@ -56,12 +54,10 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 * [Yung's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
 * [Yung's Extras](https://modrinth.com/mod/yungs-extras)
-
 ### Farming
 * [Naturalist](https://modrinth.com/mod/naturalist)
 * [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
-
 ### QOL
 * [Bits and Chisels](https://modrinth.com/mod/bits-and-chisels)
 * [Wired Redstone](https://modrinth.com/mod/wiredredstone)
