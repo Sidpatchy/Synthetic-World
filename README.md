@@ -1,80 +1,72 @@
-# Synthetic World v8
-The second generation of Synthetic World's fabric foray into fabric, this pack is built off the solid base laid out by [Vanilla++ v6](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.19.2).
+# Synthetic World 9
+The third generation of Synthetic World's fabric transition, this pack is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 
-This pack takes a whole new approach to modding. Minimalism.
+With this version, Synthetic World is dropping the `v` from it's release names. It will henceforth be known as Synthetic World 9.
+
+
 
 # Installation
-## Logging Into MultiMC
-1) Click `Settings` from the top bar
-2) Select `Accounts` along the side
-3) Click `Add Microsoft` or `Add Mojang` depending on which account type you have.
-4) Follow the on-screen instructions
-5) Click `Close`
+
+## Installing Java
+1. Download the [latest version of Java 17](https://adoptium.net/temurin/releases/?package=jdk&version=17).
+2. This will vary depending on which operating system you use.
+   1. If you're running **Windows**, select the **.msi** file and install it.
+   2. If you're running **MacOS:
+      1. Select the **.pkg** file for **aarch64** if you're running Apple Silicon (aka M1/M2/M3).
+      2. Select the **.pkg** file for the **x64** version if you're running an Intel Mac.
+      
+## Installing the Prism Launcher
+1. Head to the Prism Launcher [download page](https://prismlauncher.org/download?from=button).
+2. Download the version the corresponds to the device you're using.
+3. Install the downloaded file.
+
+## Logging Into Prism Launcher
+1. Click `Settings` from the top bar
+2. Select `Accounts` along the side
+3. Click `Add Microsoft` or `Add Mojang` depending on which account type you have.
+4. Follow the on-screen instructions
+5. Click `Close`
 
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
-2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/8.0.0/Synthetic-World-v8.zip
+2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/9.0.0/Synthetic-World-v9.zip
 3. Select `Ok`
 4. Wait for the pack to be installed then launch the game
 
-## Mods (besides those present in Vanilla++ v6, list also excludes mod dependencies)
-### Create
-https://modrinth.com/mod/create-fabric
-https://modrinth.com/mod/create-crystal-clear-fabric
+## List of Feature Mods
+Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
+### Tech Mods
+* [Create](https://modrinth.com/mod/create-fabric-sodium-fix)
+* [Applied Energistics 2](https://modrinth.com/mod/ae2)
+* [ME Requester](https://modrinth.com/mod/merequester)
+* [ComputerCraft: Tweaked](https://modrinth.com/mod/cc-tweaked)
+* [CCC: Bridge](https://modrinth.com/mod/cccbridge)
+* [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
+* [Industrial Revolution](https://modrinth.com/mod/industrial-revolution)
+* 
 
-### Applied Energistics
-https://modrinth.com/mod/ae2
-https://modrinth.com/mod/merequester
-
-### ComputerCraft
-https://modrinth.com/mod/cc-restitched
-https://modrinth.com/mod/cccbridge
-
-### Misc Technology
-https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
-https://modrinth.com/mod/extra-generators
-
-### Exploration
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
-https://modrinth.com/mod/paradise-lost
-https://modrinth.com/mod/ad-astra
-https://modrinth.com/mod/naturalist
-
-#### Yung's enhancements
-https://modrinth.com/mod/yungs-better-mineshafts
-https://modrinth.com/mod/yungs-better-strongholds
-https://modrinth.com/mod/yungs-better-ocean-monuments
-https://modrinth.com/mod/yungs-better-dungeons
-https://modrinth.com/mod/yungs-better-desert-temples
-https://modrinth.com/mod/yungs-better-witch-huts
-https://modrinth.com/mod/yungs-better-nether-fortresses
-https://modrinth.com/mod/yungs-extras
+### Adventure Mods
+* [Ad Astra](https://modrinth.com/mod/ad-astra)
+* [Naturalist](https://modrinth.com/mod/naturalist)
+* [Yung's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+* [Yung's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+* [Yung's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+* [Yung's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+* [Yung's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+* [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+* [Yung's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+* [Yung's Extras](https://modrinth.com/mod/yungs-extras)
 
 ### Farming
-https://modrinth.com/mod/naturalist
-https://www.curseforge.com/minecraft/mc-mods/botany-pots
-https://www.curseforge.com/minecraft/mc-mods/croptopia
-https://modrinth.com/mod/fabric-seasons-croptopia-compat
+* [Naturalist](https://modrinth.com/mod/naturalist)
+* [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+* [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 
-### QOL mods
-https://modrinth.com/mod/appleskin
-https://modrinth.com/mod/bits-and-chisels
-https://modrinth.com/mod/wiredredstone
-https://modrinth.com/mod/sync-fabric
-https://modrinth.com/mod/chunk-loaders
-https://modrinth.com/mod/show-me-your-skin
-https://modrinth.com/mod/yigd
-https://modrinth.com/mod/waystones
-https://modrinth.com/mod/building-wands
-
-### Vanilla Enhancements/Tweaks
-https://modrinth.com/mod/fabric-seasons
-https://modrinth.com/mod/fabric-seasons-extras
-https://modrinth.com/mod/deathlog
-https://modrinth.com/mod/spice-of-fabric
-
-### Misc enhancements
-https://modrinth.com/mod/memoryleakfix
-https://modrinth.com/mod/passivepregen
-https://modrinth.com/mod/polymorph
-
+### QOL
+* [Bits and Chisels](https://modrinth.com/mod/bits-and-chisels)
+* [Wired Redstone](https://modrinth.com/mod/wiredredstone)
+* [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin)
+* [You're in Grave Danger](https://modrinth.com/mod/yigd)
+* [Waystones](https://modrinth.com/mod/waystones)
+* [Building Wands](https://modrinth.com/mod/building-wands)
+* [Polymorph](https://modrinth.com/mod/polymorph)
