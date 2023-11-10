@@ -121,8 +121,18 @@ hash = "5a0bfb6ba4f126bd0404203f3f53b6ae6f2cf0b2631b6207a6b1dc6f7c82f771"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
@@ -175,8 +185,18 @@ hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "770bf53b93096e25bb6a04c9089a29dad96e4e32ee58ab46fbf533711a63791d"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "477ca2e0ad573c9ddecc5d0eda3b74f0ab355189d2c34f3ea041e27e5f0b9a00"
 metafile = true
 
 [[files]]
@@ -187,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
@@ -222,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "d387f6ab4b0e42aa5f531e62a7c5cb59a61b6280dcd52beaba2329bc5422b7ee"
 metafile = true
 
 [[files]]
@@ -310,6 +340,11 @@ hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
@@ -337,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
@@ -376,12 +416,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "415a2acc42fa2a4b648c4f5de33d679c18a7c478ffae6236ab881b1e49566818"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]

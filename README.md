@@ -2,6 +2,8 @@
 The third generation of Synthetic World's fabric transition, this pack is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 
 With this version, Synthetic World is dropping the `v` from it's release names. It will henceforth be known as Synthetic World 9.
+
+This version now REQUIRES the Prism Launcher. MultiMC will no longer be supported. If you wish to retain your old instances, [a migration guide is available](https://prismlauncher.org/wiki/getting-started/migrating-multimc/) and simple to complete.
 # Installation
 ## Installing Java
 1. Download the [latest version of Java 17](https://adoptium.net/temurin/releases/?package=jdk&version=17).
@@ -37,6 +39,7 @@ If you receive an error along the lines of:
 Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 ### Tech Mods
 * [Create](https://modrinth.com/mod/create-fabric-sodium-fix)
+* [Create Crafts and Additions](https://modrinth.com/mod/createaddition)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
 * [ME Requester](https://modrinth.com/mod/merequester)
 * [ComputerCraft: Tweaked](https://modrinth.com/mod/cc-tweaked)
@@ -66,3 +69,6 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [Waystones](https://modrinth.com/mod/waystones)
 * [Building Wands](https://modrinth.com/mod/building-wands)
 * [Polymorph](https://modrinth.com/mod/polymorph)
+* [Rechiseled](https://modrinth.com/mod/rechiseled)
+* [Light Emitting Diode](https://modrinth.com/mod/led)
+* [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
