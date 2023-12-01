@@ -1,5 +1,7 @@
-# Synthetic World 9
+# Synthetic World 9 LTS
 The third generation of Synthetic World's fabric transition, this pack is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
+
+Synthetic World 9 is our first "LTS" release. It guaruntees the ability to migrate your world to future versions of the game until at least Minecraft 1.26. If certain mods are no longer updated, they will be dropped and those items will be lost from saves that migrate.
 
 With this version, Synthetic World is dropping the `v` from it's release names. It will henceforth be known as Synthetic World 9.
 
