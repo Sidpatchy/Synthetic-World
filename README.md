@@ -1,17 +1,21 @@
-# Synthetic World 9
-The third generation of Synthetic World's fabric transition, this pack is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
+# Synthetic World 10
+The fourth generation of Synthetic World's Quilt modpacks. This pack is built to be a crowd pleaser, with an emphasis on exploration, it has something to offer for every type of player. Synthetic World 10 is built off the solid base laid out by [Vanilla++ v7](https://github.com/SyntheticMediaGroup/Vanilla-Plus-Plus/tree/1.20.1).
 
-With this version, Synthetic World is dropping the `v` from it's release names. It will henceforth be known as Synthetic World 9.
+Synthetic World 10 further optimizes the default config files based off user feedback.
 
-This version now REQUIRES the Prism Launcher. MultiMC will no longer be supported. If you wish to retain your old instances, [a migration guide is available](https://prismlauncher.org/wiki/getting-started/migrating-multimc/) and simple to complete.
+### Note:
+- Synthetic World 10 will only recieve support for Minecraft 1.20.1. Future Minecraft version support is not planned. [Synthetic World 9](https://github.com/SyntheticMediaGroup/Synthetic-World/tree/v9) is the latest LTS release at the time of writing.
+- With version 9, Synthetic World dropped the `v` from it's release names.
+- This version REQUIRES the Prism Launcher. MultiMC will no longer be supported. If you wish to retain your old instances, [a migration guide is available](https://prismlauncher.org/wiki/getting-started/migrating-multimc/) and is quick and easy to follow.
 # Installation
 ## Installing Java
 1. Download the [latest version of Java 17](https://adoptium.net/temurin/releases/?package=jdk&version=17).
 2. This will vary depending on which operating system you use.
    1. If you're running **Windows**, select the **.msi** file and install it.
-   2. If you're running **MacOS:
-      1. Select the **.pkg** file for **aarch64** if you're running Apple Silicon (aka M1/M2/M3).
-      2. Select the **.pkg** file for the **x64** version if you're running an Intel Mac.
+   2. If you're running **MacOS**:
+      1. Select the **.pkg** file for **aarch64** if you're running **Apple Silicon** (aka M1/M2/M3).
+      2. Select the **.pkg** file for the **x64** version if you're running an **Intel** Mac.
+   3. If you're running **Linux**: figure it out.
     
 ## Installing the Prism Launcher
 1. Head to the Prism Launcher [download page](https://prismlauncher.org/download?from=button).
@@ -25,7 +29,7 @@ This version now REQUIRES the Prism Launcher. MultiMC will no longer be supporte
 5. Click `Close`
 ## Installing the Pack
 1. Click `Add Instance`, then `Import from ZIP`
-2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/9.0.0/Synthetic-World-9.zip
+2. Paste the following link into the text box: https://github.com/SyntheticMediaGroup/Synthetic-World/releases/download/10.0.0/Synthetic-World-9.zip
 3. Select `Ok`
 4. Wait for the pack to be installed then press `Launch`.
 
@@ -41,11 +45,13 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [Create](https://modrinth.com/mod/create-fabric-sodium-fix)
 * [Create Crafts and Additions](https://modrinth.com/mod/createaddition)
 * [Applied Energistics 2](https://modrinth.com/mod/ae2)
-* [ME Requester](https://modrinth.com/mod/merequester)
 * [ComputerCraft: Tweaked](https://modrinth.com/mod/cc-tweaked)
 * [CCC: Bridge](https://modrinth.com/mod/cccbridge)
 * [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 * [Industrial Revolution](https://modrinth.com/mod/industrial-revolution)
+### Magic Mods
+
+* 
 ### Adventure Mods
 * [Ad Astra](https://modrinth.com/mod/ad-astra)
 * [Naturalist](https://modrinth.com/mod/naturalist)
@@ -57,10 +63,14 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 * [Yung's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
 * [Yung's Extras](https://modrinth.com/mod/yungs-extras)
-### Farming
+### Farming/Food/Potions
 * [Naturalist](https://modrinth.com/mod/naturalist)
 * [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+* [Bodacious Berries](https://modrinth.com/mod/berries)
+* [Extra Alchemy](https://modrinth.com/mod/extraalchemy)
+* [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads)
+
 ### QOL
 * [Bits and Chisels](https://modrinth.com/mod/bits-and-chisels)
 * [Wired Redstone](https://modrinth.com/mod/wiredredstone)
@@ -72,3 +82,6 @@ Excludes those present in [Vanilla++ v7](https://github.com/SyntheticMediaGroup/
 * [Rechiseled](https://modrinth.com/mod/rechiseled)
 * [Light Emitting Diode](https://modrinth.com/mod/led)
 * [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+* [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
+* [VanitySlots](https://modrinth.com/mod/vanity)
+
