@@ -1,0 +1,13 @@
+name = "TC Wireless Redstone"
+filename = "TC-Redstone-1.20.2-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rMlghquR/versions/4gv1wBJ9/TC-Redstone-1.20.2-3.2.1.jar"
+hash-format = "sha1"
+hash = "037edd3a7047284eb8ad8d5563631a41be190c40"
+
+[update]
+[update.modrinth]
+mod-id = "rMlghquR"
+version = "4gv1wBJ9"
