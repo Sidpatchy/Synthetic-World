@@ -103,7 +103,7 @@ If you receive an error along the lines of:
 - [Sound Physics: Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [JourneyMap](https://modrinth.com/mod/journeymap)
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations/gallery)
-- [Veinminer](https://modrinth.com/datapack/veinminer)
+- [Viner](https://www.modrinth.com/mod/viner)
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 - [Accelerated Decay](https://modrinth.com/mod/accelerated-decay)
 - [Companion](https://modrinth.com/mod/companion)

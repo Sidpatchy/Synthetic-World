@@ -591,8 +591,8 @@ hash = "086365f8056548d8e8c9aab123f7d1f7c6e7375f3a1879e5e049a1ec93887125"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "7e95e8e8fb045594c11c0f02cb9f5c4c83e9985e91259050c171fe62b1c2546d"
+file = "mods/viner.pw.toml"
+hash = "273797270aef8698b7d9def92b5565cd0d7a837c016ac6d98916b5c08b4ecfb0"
 metafile = true
 
 [[files]]
