@@ -506,6 +506,11 @@ hash = "0efdfd042ff64bcbd20ea342d47214c362a124f63568ccf3f1516caf134dc596"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "ec6e34a9c1e1c9d0eae72c32069983d52b94816937fb61a9307ab98620c4375c"
 metafile = true

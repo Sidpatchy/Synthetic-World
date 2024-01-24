@@ -113,6 +113,7 @@ If you receive an error along the lines of:
 - [WI Zoom](https://modrinth.com/mod/wi-zoom)
 - [ExtraSounds Forge](https://modrinth.com/mod/extrasoundsforge) - Optional
 - [WTHIT](https://modrinth.com/mod/wthit)
+- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)
