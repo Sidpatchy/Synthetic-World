@@ -112,6 +112,7 @@ If you receive an error along the lines of:
 - [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) 
 - [WI Zoom](https://modrinth.com/mod/wi-zoom)
 - [ExtraSounds Forge](https://modrinth.com/mod/extrasoundsforge) - Optional
+- [WTHIT](https://modrinth.com/mod/wthit)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)
