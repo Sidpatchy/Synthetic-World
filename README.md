@@ -42,7 +42,7 @@ If you receive an error along the lines of:
 ### Tech Mods
 * [Create](https://modrinth.com/mod/create-fabric-sodium-fix)
 * [Create: Crafts and Additions](https://modrinth.com/mod/createaddition)
-* [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails
+* [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 * [Create: Rechiseled](https://modrinth.com/mod/rechiseled-create)
 * [Create: Utilities](https://modrinth.com/mod/create-utilities)
 * [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators)
@@ -102,7 +102,7 @@ If you receive an error along the lines of:
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [Sound Physics: Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [JourneyMap](https://modrinth.com/mod/journeymap)
-- [Spawn Animations][https://modrinth.com/datapack/spawn-animations/gallery]
+- [Spawn Animations](https://modrinth.com/datapack/spawn-animations/gallery)
 - [Veinminer](https://modrinth.com/datapack/veinminer)
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 - [Accelerated Decay](https://modrinth.com/mod/accelerated-decay)
@@ -138,7 +138,7 @@ If you receive an error along the lines of:
 - [Fastload](https://modrinth.com/mod/fastload)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Fix GPU Memory Leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
-- [Get It Together, Drops!][https://modrinth.com/mod/get-it-together-drops]
+- [Get It Together, Drops!](https://modrinth.com/mod/get-it-together-drops)
 - [Krypton: Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
 - [Leaky](https://www.curseforge.com/minecraft/mc-mods/leaky)
 - [Let Me Despawn](https://modrinth.com/plugin/lmd)
