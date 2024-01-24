@@ -236,6 +236,11 @@ hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "4c9525310f67e93996991f185303dd33b3bd27c435c8c65b8eddde4464c3c7b7"
+metafile = true
+
+[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "75010cab74018fa97848546f2733adc4d1daa6026573b85e6be9bf0ea054937c"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "bc15b582a1c076e83acd32750277feff3412437fd5c7e6296f0ce9812eeb7c2f"
+metafile = true
+
+[[files]]
+file = "mods/extrasoundsforge.pw.toml"
+hash = "bfbdea13bfee2d067df7309e2ee0ed9ed1a93d58b79906ad61d19c397428230e"
 metafile = true
 
 [[files]]
@@ -396,6 +406,11 @@ hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "6fbf1ba3d803c5357aee18a465bf9eb073a379fcf6498b2470c40d2febdacad6"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "70b08746769d617cf1138e140d45f8418c579c505da8244a6db569b87efe0fa7"
 metafile = true
@@ -437,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+hash = "22d0f1f1ebc16a00f73272eabcf52a0f2f5a4ccf490541c61201274bc6d4bcca"
 metafile = true
 
 [[files]]
@@ -486,6 +501,11 @@ hash = "0efdfd042ff64bcbd20ea342d47214c362a124f63568ccf3f1516caf134dc596"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "ec6e34a9c1e1c9d0eae72c32069983d52b94816937fb61a9307ab98620c4375c"
+metafile = true
+
+[[files]]
 file = "mods/simplecore-api.pw.toml"
 hash = "5782d95d92557b22c76b2733af8f442903cadea93ec44662a9d3688633cb5d36"
 metafile = true
@@ -507,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9d5935fd4df78e0300c574ea6e48931783edf54916a8befccee23073931928d7"
+hash = "cc2551a84acacf5dfa9dbf0157729d2c43773905fdc5312ab83faaf0f54fada7"
 metafile = true
 
 [[files]]
@@ -568,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/vinery.pw.toml"
 hash = "502e02e1186742a1f2cd7f2dafdd491e360d831ce9d593949017c401136124f7"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "11c6be6047de8136ed9048f4e3ef3eaf4bfc144b5480b5b474e5c4a7b0093a10"
 metafile = true
 
 [[files]]

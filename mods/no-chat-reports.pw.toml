@@ -11,3 +11,8 @@ hash = "069396e689ae887d065c8d61b7945e685fbcc65b"
 [update.modrinth]
 mod-id = "qQyHxfxd"
 version = "ksEG6N5E"
+
+[option]
+optional = true
+default = false
+description = "Has been iffy on causing issues with connectivity to server. Recommend leaving disabled. Installed on server regardless."
