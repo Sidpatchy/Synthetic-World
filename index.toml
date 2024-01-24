@@ -56,6 +56,11 @@ hash = "9f878eeafd24a94deb1e856f12f7d206a33cb0e1b1b59a2f293cfe3285abce98"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
@@ -593,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "11c6be6047de8136ed9048f4e3ef3eaf4bfc144b5480b5b474e5c4a7b0093a10"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "fcf0166adba067f8417ab29f44a23e43363d1bb4caa87ee590edd7972bca4b70"
 metafile = true
 
 [[files]]
