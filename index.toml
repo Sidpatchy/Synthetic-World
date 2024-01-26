@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
+hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
 
 [[files]]
@@ -366,6 +366,11 @@ hash = "30c1457311af0def3043d2b6bf9107003a14edcf1567d403e5ca166a6620cf04"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "3a6ef3205134c85a10deb5bb8e2726e40f3548c4a1d1d01bf2c7f1f5abd0663c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
@@ -441,6 +446,11 @@ hash = "8e84057af40649316e60061dd09c32ab62140c7333818c2f20bc7a0c46720468"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "eeac2edf9f9a84be410f4079e9d960162d5e9c16f2cb6cbe2022d3261f5ae4c9"
 metafile = true
@@ -463,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "15b78385bfbf13908c201b977d0529bd1b9c25872320ed254f4d86dfe77183fe"
+metafile = true
+
+[[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "2be6c9d80411251a4516372d9f3ab422d8b09befc28c0231c5f1c9fa61ae3f81"
 metafile = true
 
 [[files]]
@@ -588,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-delight.pw.toml"
 hash = "086365f8056548d8e8c9aab123f7d1f7c6e7375f3a1879e5e049a1ec93887125"
-metafile = true
-
-[[files]]
-file = "mods/viner.pw.toml"
-hash = "273797270aef8698b7d9def92b5565cd0d7a837c016ac6d98916b5c08b4ecfb0"
 metafile = true
 
 [[files]]

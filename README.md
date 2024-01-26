@@ -103,7 +103,7 @@ If you receive an error along the lines of:
 - [Sound Physics: Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [JourneyMap](https://modrinth.com/mod/journeymap)
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations/gallery)
-- [Viner](https://www.modrinth.com/mod/viner)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
 - [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 - [Accelerated Decay](https://modrinth.com/mod/accelerated-decay)
 - [Companion](https://modrinth.com/mod/companion)
@@ -114,6 +114,8 @@ If you receive an error along the lines of:
 - [ExtraSounds Forge](https://modrinth.com/mod/extrasoundsforge) - Optional
 - [WTHIT](https://modrinth.com/mod/wthit)
 - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)
+- [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)
