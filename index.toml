@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/leaky.pw.toml"
 hash = "acadaef1ae27492111041fdfa9d115136911eb4a57f9b9ecba04fb007fdfd329"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
 
 [[files]]

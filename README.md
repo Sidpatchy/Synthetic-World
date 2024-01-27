@@ -116,6 +116,7 @@ If you receive an error along the lines of:
 - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)
 - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)
