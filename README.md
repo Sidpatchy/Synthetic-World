@@ -117,6 +117,7 @@ If you receive an error along the lines of:
 - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [e4mc](https://modrinth.com/mod/e4mc)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)

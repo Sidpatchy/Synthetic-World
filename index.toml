@@ -251,6 +251,11 @@ hash = "75010cab74018fa97848546f2733adc4d1daa6026573b85e6be9bf0ea054937c"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "701c111cd7990a5a80eaf1f255793cae5da754acc888b10ced61a58b49c7039d"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
 metafile = true
@@ -388,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "2906e9ebf6e5c11d41c26de159bfa5f280b873dc46217c15292381bfd5b61f01"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
