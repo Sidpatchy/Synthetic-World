@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/seamless_loading_screen.json"
+hash = "a7ae5917befdf3a971d50e7fdc7493bb1b39a485b9a432875b3c801b73700534"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
 metafile = true
@@ -257,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "701c111cd7990a5a80eaf1f255793cae5da754acc888b10ced61a58b49c7039d"
+hash = "643d7dbd12ba1ebce42e892846b1f5557f904f0f366ce4b11d34d5b350ca68d3"
 metafile = true
 
 [[files]]
