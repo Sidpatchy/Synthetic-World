@@ -170,6 +170,11 @@ hash = "71435c92604bbfd25ac0bc604b6ada0135a106a19f4c639e7806e6136fec9181"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
 metafile = true

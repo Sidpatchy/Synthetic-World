@@ -119,6 +119,7 @@ If you receive an error along the lines of:
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 - [e4mc](https://modrinth.com/mod/e4mc)
 - [Chunkloaders](https://modrinth.com/mod/chunk-loaders/version/1.2.8a-forge-mc1.20.1)
+- [Construction Wand](https://modrinth.com/mod/construction-wand)
 
 ### Decorative
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons/gallery)
