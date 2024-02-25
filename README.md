@@ -64,6 +64,7 @@ If you receive an error along the lines of:
 * [Extreme Reactors](https://modrinth.com/mod/extreme-reactors)
 * [TC Wireless Redstone](https://modrinth.com/mod/tc-wireless-redstone)
 * [Additional Enchanted Miner](https://modrinth.com/mod/additional-enchanted-miner)
+
 ### Magic Mods
 - [Happiness (is a) Warm Gun](https://modrinth.com/mod/happiness-is-a-warm-gun)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Optional
@@ -126,6 +127,7 @@ If you receive an error along the lines of:
 - [Supplementaries](https://modrinth.com/mod/supplementaries/gallery)
 - [Immersive Paintings](https://modrinth.com/mod/immersive-paintings)
 - [Bushier Flowers](https://modrinth.com/mod/bushier-flowers)
+- [Cosmetic Armour Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 
 ### Optimizations
 - [Alternate Current](https://modrinth.com/mod/alternate-current)
